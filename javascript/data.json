@@ -1,0 +1,23 @@
+{
+    "profile":[{
+     "img":"ai1.jfif",
+    "name":"AI",
+    "branch":"IT",
+    "year":"1ST",
+    "scount":"70"
+},
+{
+    "img":"ai.jpg",
+    "name":"OLD AI",
+    "branch":"IT",
+    "year":"2nd"
+
+},
+{
+    
+    "img":"ai2.jfif",
+    "name":"NEW AI",
+    "branch":"IT",
+    "year":"3RD"
+}]
+    }

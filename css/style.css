@@ -1,0 +1,24 @@
+h4{
+    color: black;
+    background-color: blue;
+    text-align:center;
+    font-size:  30px;
+    font-style: italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300px;
+   /* width: 60%;
+    height: 60mm;*/
+    /*padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 70px;*/
+    /*padding:40px 30px 60px 100px;*/
+    padding: 199px 200px;
+    /*margin: 100px;*/
+    /*margin: 100px 300px 500px 100px;*/
+    margin: 50px 100px;
+    border: 7px solid yellowgreen;
+    border-radius: 60px;
+    box-shadow:20px 20px  rgb(27, 27, 26);
+
+}
